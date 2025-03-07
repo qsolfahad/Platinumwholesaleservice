@@ -1,0 +1,55 @@
+i.eci{ 
+display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+@font-face {
+ font-family: 'font1116179647';
+  src: url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.eot?61120013');
+  src: url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.eot?61120013#iefix') format('embedded-opentype'),
+       url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.html?61120013') format('woff2'),
+       url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.woff?61120013') format('woff'),
+       url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.ttf?61120013') format('truetype'),
+       url('fontello-2f215b52.zip/fontello-2f215b52/font/fontelloa623.svg?61120013#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.font1116179647-emo-happy::before { content: '\e800'; font-family: 'font1116179647'; }
+.eci.font1116179647-adult::before { content: '\e801'; font-family: 'font1116179647'; }
+.eci.font1116179647-user::before { content: '\e802'; font-family: 'font1116179647'; }
+
+
+@font-face {
+ font-family: 'font1219157521';
+  src: url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.eot?1277998789');
+  src: url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.eot?1277998789#iefix') format('embedded-opentype'),
+       url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.html?1277998789') format('woff2'),
+       url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.woff?1277998789') format('woff'),
+       url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.ttf?1277998789') format('truetype'),
+       url('fontello-30a583f9.zip/fontello-30a583f9/font/fontello51bb.svg?1277998789#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.font1219157521-emo-happy::before { content: '\e800'; font-family: 'font1219157521'; }
+.eci.font1219157521-adult::before { content: '\e801'; font-family: 'font1219157521'; }
+.eci.font1219157521-user::before { content: '\e802'; font-family: 'font1219157521'; }
+.eci.font1219157521-emo-unhappy::before { content: '\e803'; font-family: 'font1219157521'; }
+.eci.font1219157521-chart-bar::before { content: '\e804'; font-family: 'font1219157521'; }
+.eci.font1219157521-asterisk::before { content: '\e805'; font-family: 'font1219157521'; }
+.eci.font1219157521-emo-surprised::before { content: '\e806'; font-family: 'font1219157521'; }
+.eci.font1219157521-emo-displeased::before { content: '\e80a'; font-family: 'font1219157521'; }
+.eci.font1219157521-emo-cry::before { content: '\e80f'; font-family: 'font1219157521'; }
+.eci.font1219157521-emo-wink2::before { content: '\e813'; font-family: 'font1219157521'; }
+.eci.font1219157521-certificate::before { content: '\f0a3'; font-family: 'font1219157521'; }
+.eci.font1219157521-smile::before { content: '\f118'; font-family: 'font1219157521'; }
+.eci.font1219157521-puzzle::before { content: '\f12e'; font-family: 'font1219157521'; }
+.eci.font1219157521-shield::before { content: '\f132'; font-family: 'font1219157521'; }
+.eci.font1219157521-bank::before { content: '\f19c'; font-family: 'font1219157521'; }
+.eci.font1219157521-tree::before { content: '\f1bb'; font-family: 'font1219157521'; }
+.eci.font1219157521-database::before { content: '\f1c0'; font-family: 'font1219157521'; }
+.eci.font1219157521-server::before { content: '\f233'; font-family: 'font1219157521'; }
+
+
